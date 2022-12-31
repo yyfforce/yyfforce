@@ -19,6 +19,8 @@ Interested in inter-disciplinary topics related but not limited to:
 * low-dimensional materials science
 * computational materials design
 
+[Twitter account](https://twitter.com/rdortk)
+
 [Google scholar profile](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en)
 
 [Latest preprints on arXiv](https://arxiv.org/search/cond-mat?query=Yin%2C+Yuefeng&searchtype=author&abstracts=show&order=-announced_date_first&size=50)

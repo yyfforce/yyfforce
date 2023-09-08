@@ -24,9 +24,9 @@ Interested in inter-disciplinary topics related but not limited to:
 [Google scholar profile](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en)
 
 [Latest preprints on arXiv](https://arxiv.org/search/cond-mat?query=Yin%2C+Yuefeng&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
-
+<!---
 [Summary of my research outputs](https://cetk.notion.site/My-Research-Outputs-449cc7f6b48c4c608cef04b27ac8c533)
 
 [Navigation on my Github Repositories](https://github.com/yyfforce/Github_TOC)
-
+--->
 

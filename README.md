@@ -25,7 +25,7 @@ Interested in inter-disciplinary topics related but not limited to:
 
 [Latest preprints on arXiv](https://arxiv.org/search/cond-mat?query=Yin%2C+Yuefeng&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
 
-[My Gists] (https://gist.github.com/yyfforce)
+[My Gists](https://gist.github.com/yyfforce)
 
 <!---
 [Summary of my research outputs](https://cetk.notion.site/My-Research-Outputs-449cc7f6b48c4c608cef04b27ac8c533)

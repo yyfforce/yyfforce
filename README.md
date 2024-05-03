@@ -25,6 +25,8 @@ Interested in inter-disciplinary topics related but not limited to:
 
 [Latest preprints on arXiv](https://arxiv.org/search/cond-mat?query=Yin%2C+Yuefeng&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
 
+[Scholia Profile](https://scholia.toolforge.org/author/Q95933486)
+
 [My Gists](https://gist.github.com/yyfforce)
 
 <!---

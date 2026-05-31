@@ -19,8 +19,6 @@ Interested in inter-disciplinary topics related but not limited to:
 * low-dimensional materials science
 * computational materials design
 
-[CV hosted on GitHub Pages](https://yyfforce.github.io/cv/) 
-
 [A more colored take of my CV](https://yyfforce.github.io/innovative-cv/)
 
 [X (Previously known as Twitter) account](https://twitter.com/rdortk)

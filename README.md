@@ -68,10 +68,10 @@ I'm a computational materials scientist working on topological quantum materials
 #### 📚 Latest publications
 
 <!-- SCHOLAR-PUBLICATIONS:START -->
-- [Engineering built-in electric fields through pn heterojunction construction for enhanced dual-functional water electrolysis in Co2P/Fe2P systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Wc_-IPYAAAAJ&citation_for_view=Wc_-IPYAAAAJ:4OULZ7Gr8RgC) — Journal of Alloys and Compounds, 188405, 2026
-- [Efficient and Robust p-Type Transistor Based on Ultrawide-Bandgap Semiconductor](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Wc_-IPYAAAAJ&citation_for_view=Wc_-IPYAAAAJ:u_35RYKgDlwC) — ACS nano 20 (8), 7343-7354, 2026
-- [Uncovering complex phonon interactions in Mg3Bi2-xSbx: topology and avoided crossings](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Wc_-IPYAAAAJ&citation_for_view=Wc_-IPYAAAAJ:fPk4N6BV_jEC) — Nature Communications, 2026
-- [Pick-and-place transfer of arbitrary-metal electrodes for van der Waals device fabrication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Wc_-IPYAAAAJ&citation_for_view=Wc_-IPYAAAAJ:70eg2SAEIzsC) — ACS nano 19 (3), 3579-3588, 2025
-- [Giant berry curvature in amorphous ferromagnet Co2MnGa](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Wc_-IPYAAAAJ&citation_for_view=Wc_-IPYAAAAJ:ldfaerwXgEUC) — Matter 8 (3), 2025
+- [Engineering built-in electric fields through pn heterojunction construction for enhanced dual-functional water electrolysis in Co2P/Fe2P systems](https://doi.org/10.1016/j.jallcom.2026.188405) — Journal of Alloys and Compounds, 188405, 2026
+- [Efficient and Robust p-Type Transistor Based on Ultrawide-Bandgap Semiconductor](https://doi.org/10.1021/acsnano.5c22605) — ACS nano 20 (8), 7343-7354, 2026
+- [Uncovering complex phonon interactions in Mg3Bi2-xSbx: topology and avoided crossings](https://doi.org/10.1038/s41467-026-71754-9) — Nature Communications, 2026
+- [Pick-and-place transfer of arbitrary-metal electrodes for van der Waals device fabrication](https://doi.org/10.1021/acsnano.4c13592) — ACS nano 19 (3), 3579-3588, 2025
+- [Giant berry curvature in amorphous ferromagnet Co2MnGa](https://doi.org/10.1016/j.matt.2025.101988) — Matter 8 (3), 2025
 <!-- SCHOLAR-PUBLICATIONS:END -->
 

@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-I'm a computational physicist working on topological quantum materials, 2D systems, and emerging spintronic platforms. I use and build first-principles (DFT), tight-binding, and many-body transport methods to chase a single stubborn question:
+I'm a computational materials scientist working on topological quantum materials, 2D systems, and emerging spintronic platforms. I use and build first-principles (DFT), tight-binding, and many-body transport methods to chase a single stubborn question:
 
 > **Can we design materials whose electrons carry information faster, cooler, and more robustly than anything we have today?**
 
@@ -53,15 +53,13 @@ I'm a computational physicist working on topological quantum materials, 2D syste
 
 ---
 
----
-
 ### 📊 Google Scholar Stats
 
 <div align="center">
 
 [![Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyyfforce%2Fyyfforce%2Fmain%2Fscholar-stats.json&query=%24.citations&label=Citations&color=4285F4&logo=googlescholar&logoColor=white&style=for-the-badge)](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en)
 [![h-index](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyyfforce%2Fyyfforce%2Fmain%2Fscholar-stats.json&query=%24.hindex&label=h-index&color=4285F4&logo=googlescholar&logoColor=white&style=for-the-badge)](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en)
-[![i10-index](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyyfforce%2Fyyfforce%2Fmain%2Fscholar-stats.json&query=%24.i10index&label=i10--index&color=4285F4&logo=googlescholar&logoColor=white&style=for-the-badge)](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en)
+[![i10-index](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyyfforce%2Fyyfforce%2Fmain%2Fscholar-stats.json&query=%24.i10index&label=i10-index&color=4285F4&logo=googlescholar&logoColor=white&style=for-the-badge)](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en)
 
 <sub>Pulled from my <a href="https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en">Google Scholar profile</a>  · last refreshed: <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyyfforce%2Fyyfforce%2Fmain%2Fscholar-stats.json&query=%24.updated&label=&color=lightgrey&style=flat-square" alt="last updated" valign="middle" /></sub>
 

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <a href="https://yyfforce.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4C9AFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yuefeng+Yin+(%E5%B0%B9%E8%B6%8A%E5%B3%B0);Research+Fellow+%40+Monash+University;Computational+Physics+%7C+Quantum+Materials;Designing+colder%2C+faster+electrons%2C+one+Hamiltonian+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4C9AFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yuefeng+Yin+(%E5%B0%B9%E8%B6%8A%E5%B3%B0);Research+Fellow+%40+Monash+University;Computational+Physics+%7C+Quantum+Materials" alt="Typing SVG" />
 </a>
 
 [![Website](https://img.shields.io/badge/yyfforce.github.io-4C9AFF?style=flat-square&logo=googlechrome&logoColor=white)](https://yyfforce.github.io)

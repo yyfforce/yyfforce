@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/y-yin/)
 [![Twitter](https://img.shields.io/badge/@rdortk-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rdortk)
-[![Email](https://img.shields.io/badge/yyfforce%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuefeng.yin@monash.edu)
+[![Email](https://img.shields.io/badge/yuefeng.yin%40monash.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuefeng.yin@monash.edu)
 
 </div>
 

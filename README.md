@@ -13,27 +13,68 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Interested in inter-disciplinary topics related but not limited to:
+<div align="center">
 
-* materials physics
-* low-dimensional materials science
-* computational materials design
+<a href="https://yyfforce.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4C9AFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yuefeng+Yin+(%E5%B0%B9%E8%B6%8A%E5%B3%B0);Research+Fellow+%40+Monash+University;Computational+Physics+%7C+Quantum+Materials;Designing+colder%2C+faster+electrons%2C+one+Hamiltonian+at+a+time" alt="Typing SVG" />
+</a>
 
-[X (Previously known as Twitter) account](https://twitter.com/rdortk)
+[![Website](https://img.shields.io/badge/yyfforce.github.io-4C9AFF?style=flat-square&logo=googlechrome&logoColor=white)](https://yyfforce.github.io)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/y-yin/)
+[![Twitter](https://img.shields.io/badge/@rdortk-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rdortk)
+[![Email](https://img.shields.io/badge/yyfforce%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuefeng.yin@monash.edu)
 
-[Google scholar profile](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en)
+</div>
 
-[Latest preprints on arXiv](https://arxiv.org/search/cond-mat?query=Yin%2C+Yuefeng&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
+---
 
-[Scholia Profile](https://scholia.toolforge.org/author/Q95933486)
+### About me
 
-[My Gists](https://gist.github.com/yyfforce)
+I'm a computational physicist working on topological quantum materials, 2D systems, and emerging spintronic platforms. I use and build first-principles (DFT), tight-binding, and many-body transport methods to chase a single stubborn question:
 
-Also can provide supports for NCI and Pawsey supercomputing systems.
+> **Can we design materials whose electrons carry information faster, cooler, and more robustly than anything we have today?**
 
-<!---
-[Summary of my research outputs](https://cetk.notion.site/My-Research-Outputs-449cc7f6b48c4c608cef04b27ac8c533)
+- 🔬 Current Projects: topological transport in 2D bismuth · phonon · open, reproducible DFT → Wannier → tight-binding workflows
+- 📄 43 publications · 1,123 citations · h-index 19 ([Google Scholar](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en)) — in *Nature Communications*, *ACS Nano*, *Nano Letters*, *npj Quantum Materials*, and more
 
-[Navigation on my Github Repositories](https://github.com/yyfforce/Github_TOC)
---->
+<details>
+<summary>🛠️ Tools &amp; stack I reach for</summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![VASP](https://img.shields.io/badge/VASP-DFT-2E7D32?style=flat-square)
+![Wannier90](https://img.shields.io/badge/Wannier90-tight--binding-6A1B9A?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Linux/HPC](https://img.shields.io/badge/Linux%2FHPC-FCC624?style=flat-square&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</details>
+
+---
+
+---
+
+### 📊 Google Scholar (auto-updated daily)
+
+<div align="center">
+
+[![Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyyfforce%2Fyyfforce%2Fmain%2Fscholar-stats.json&query=%24.citations&label=Citations&color=4285F4&logo=googlescholar&logoColor=white&style=for-the-badge)](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en)
+[![h-index](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyyfforce%2Fyyfforce%2Fmain%2Fscholar-stats.json&query=%24.hindex&label=h-index&color=4285F4&logo=googlescholar&logoColor=white&style=for-the-badge)](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en)
+[![i10-index](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyyfforce%2Fyyfforce%2Fmain%2Fscholar-stats.json&query=%24.i10index&label=i10--index&color=4285F4&logo=googlescholar&logoColor=white&style=for-the-badge)](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en)
+
+<sub>Pulled from my <a href="https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en">Google Scholar profile</a> by a daily <a href="./.github/workflows/scholar-stats.yml">GitHub Action</a> · last refreshed: <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyyfforce%2Fyyfforce%2Fmain%2Fscholar-stats.json&query=%24.updated&label=&color=lightgrey&style=flat-square" alt="last updated" valign="middle" /></sub>
+
+</div>
+
+#### 📚 Latest publications
+
+<!-- SCHOLAR-PUBLICATIONS:START -->
+- [Engineering built-in electric fields through pn heterojunction construction for enhanced dual-functional water electrolysis in Co2P/Fe2P systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Wc_-IPYAAAAJ&citation_for_view=Wc_-IPYAAAAJ:4OULZ7Gr8RgC) — Journal of Alloys and Compounds, 188405, 2026
+- [Efficient and Robust p-Type Transistor Based on Ultrawide-Bandgap Semiconductor](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Wc_-IPYAAAAJ&citation_for_view=Wc_-IPYAAAAJ:u_35RYKgDlwC) — ACS nano 20 (8), 7343-7354, 2026
+- [Uncovering complex phonon interactions in Mg3Bi2-xSbx: topology and avoided crossings](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Wc_-IPYAAAAJ&citation_for_view=Wc_-IPYAAAAJ:fPk4N6BV_jEC) — Nature Communications, 2026
+- [Pick-and-place transfer of arbitrary-metal electrodes for van der Waals device fabrication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Wc_-IPYAAAAJ&citation_for_view=Wc_-IPYAAAAJ:70eg2SAEIzsC) — ACS nano 19 (3), 3579-3588, 2025
+- [Giant berry curvature in amorphous ferromagnet Co2MnGa](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Wc_-IPYAAAAJ&citation_for_view=Wc_-IPYAAAAJ:ldfaerwXgEUC) — Matter 8 (3), 2025
+<!-- SCHOLAR-PUBLICATIONS:END -->
 

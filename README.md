@@ -36,7 +36,6 @@ I'm a computational physicist working on topological quantum materials, 2D syste
 > **Can we design materials whose electrons carry information faster, cooler, and more robustly than anything we have today?**
 
 - 🔬 Current Projects: topological transport in 2D bismuth · phonon · open, reproducible DFT → Wannier → tight-binding workflows
-- 📄 43 publications · 1,123 citations · h-index 19 ([Google Scholar](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en)) — in *Nature Communications*, *ACS Nano*, *Nano Letters*, *npj Quantum Materials*, and more
 
 <details>
 <summary>🛠️ Tools &amp; stack I reach for</summary>
@@ -56,7 +55,7 @@ I'm a computational physicist working on topological quantum materials, 2D syste
 
 ---
 
-### 📊 Google Scholar (auto-updated daily)
+### 📊 Google Scholar Stats
 
 <div align="center">
 
@@ -64,7 +63,7 @@ I'm a computational physicist working on topological quantum materials, 2D syste
 [![h-index](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyyfforce%2Fyyfforce%2Fmain%2Fscholar-stats.json&query=%24.hindex&label=h-index&color=4285F4&logo=googlescholar&logoColor=white&style=for-the-badge)](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en)
 [![i10-index](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyyfforce%2Fyyfforce%2Fmain%2Fscholar-stats.json&query=%24.i10index&label=i10--index&color=4285F4&logo=googlescholar&logoColor=white&style=for-the-badge)](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en)
 
-<sub>Pulled from my <a href="https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en">Google Scholar profile</a> by a daily <a href="./.github/workflows/scholar-stats.yml">GitHub Action</a> · last refreshed: <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyyfforce%2Fyyfforce%2Fmain%2Fscholar-stats.json&query=%24.updated&label=&color=lightgrey&style=flat-square" alt="last updated" valign="middle" /></sub>
+<sub>Pulled from my <a href="https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en">Google Scholar profile</a>  · last refreshed: <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyyfforce%2Fyyfforce%2Fmain%2Fscholar-stats.json&query=%24.updated&label=&color=lightgrey&style=flat-square" alt="last updated" valign="middle" /></sub>
 
 </div>
 

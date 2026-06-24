@@ -18,7 +18,10 @@ from scholarly import ProxyGenerator, scholarly
 try:
     from scholarly._proxy_generator import MaxTriesExceededException
 except ImportError:  # pragma: no cover – guard against future package refactors
-    MaxTriesExceededException = Exception  # type: ignore[assignment,misc]
+    # Define a dedicated sentinel so the fallback never silently swallows
+    # unrelated exceptions.
+    class MaxTriesExceededException(RuntimeError):  # type: ignore[no-redef]
+        """Fallback when scholarly's private module layout changes."""
 
 SCHOLAR_ID = "Wc_-IPYAAAAJ"
 SCHOLAR_PROFILE_URL = f"https://scholar.google.com/citations?user={SCHOLAR_ID}&hl=en"
@@ -108,6 +111,12 @@ def main() -> None:
     pg = ProxyGenerator()
     if pg.FreeProxies():
         scholarly.use_proxy(pg)
+    else:
+        print(
+            "Warning: FreeProxies setup failed; proceeding without a proxy. "
+            "The request may be blocked by Google Scholar.",
+            file=sys.stderr,
+        )
 
     try:
         author = scholarly.search_author_id(SCHOLAR_ID)

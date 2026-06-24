@@ -7,12 +7,18 @@ profile page view.
 
 import difflib
 import json
+import sys
 import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-from scholarly import scholarly
+from scholarly import ProxyGenerator, scholarly
+
+try:
+    from scholarly._proxy_generator import MaxTriesExceededException
+except ImportError:  # pragma: no cover – guard against future package refactors
+    MaxTriesExceededException = Exception  # type: ignore[assignment,misc]
 
 SCHOLAR_ID = "Wc_-IPYAAAAJ"
 SCHOLAR_PROFILE_URL = f"https://scholar.google.com/citations?user={SCHOLAR_ID}&hl=en"
@@ -97,8 +103,22 @@ def update_readme(pubs: list[dict]) -> None:
 
 
 def main() -> None:
-    author = scholarly.search_author_id(SCHOLAR_ID)
-    author = scholarly.fill(author, sections=["indices", "publications"])
+    # GitHub Actions IPs are blocked by Google Scholar.  Route requests through
+    # free proxies so the fetch has a better chance of succeeding.
+    pg = ProxyGenerator()
+    if pg.FreeProxies():
+        scholarly.use_proxy(pg)
+
+    try:
+        author = scholarly.search_author_id(SCHOLAR_ID)
+        author = scholarly.fill(author, sections=["indices", "publications"])
+    except MaxTriesExceededException as exc:
+        print(
+            f"Warning: Cannot fetch from Google Scholar ({exc}). "
+            "Keeping existing stats unchanged.",
+            file=sys.stderr,
+        )
+        raise SystemExit(0)
 
     recent_publications = fetch_recent_publications(author)
 

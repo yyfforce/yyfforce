@@ -1,10 +1,10 @@
 {
-  "citations": 1159,
-  "citations_5y": 1023,
+  "citations": 1199,
+  "citations_5y": 1063,
   "hindex": 19,
-  "hindex_5y": 17,
+  "hindex_5y": 18,
   "i10index": 28,
-  "i10index_5y": 25,
+  "i10index_5y": 26,
   "recent_publications": [
     {
       "title": "Engineering built-in electric fields through pn heterojunction construction for enhanced dual-functional water electrolysis in Co2P/Fe2P systems",
@@ -28,19 +28,19 @@
       "url": "https://doi.org/10.1038/s41467-026-71754-9"
     },
     {
+      "title": "Flat Bands Induced by Non-Collinear Antiferromagnetism in CoBi2Te4",
+      "year": "2026",
+      "venue": "Advanced science (Weinheim, Baden-Wurttemberg, Germany), e76833, 2026",
+      "doi": null,
+      "url": "https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en"
+    },
+    {
       "title": "Pick-and-place transfer of arbitrary-metal electrodes for van der Waals device fabrication",
       "year": "2025",
       "venue": "ACS nano 19 (3), 3579-3588, 2025",
       "doi": "10.1021/acsnano.4c13592",
       "url": "https://doi.org/10.1021/acsnano.4c13592"
-    },
-    {
-      "title": "Giant berry curvature in amorphous ferromagnet Co2MnGa",
-      "year": "2025",
-      "venue": "Matter 8 (3), 2025",
-      "doi": "10.1016/j.matt.2025.101988",
-      "url": "https://doi.org/10.1016/j.matt.2025.101988"
     }
   ],
-  "updated": "2026-06-24"
+  "updated": "2026-08-11"
 }

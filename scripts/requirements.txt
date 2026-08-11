@@ -1,2 +1,6 @@
 scholarly>=1.7.11
 free-proxy>=1.1.1
+# scholarly 1.7.11's ProxyGenerator still calls httpx.Client(proxies=...), a
+# kwarg httpx removed in 0.28 (renamed to `proxy`). Pin below that until
+# scholarly ships a fix, or every fetch dies inside FreeProxies().
+httpx<0.28

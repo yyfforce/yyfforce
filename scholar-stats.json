@@ -1,6 +1,6 @@
 {
-  "citations": 1202,
-  "citations_5y": 1066,
+  "citations": 1204,
+  "citations_5y": 1068,
   "hindex": 19,
   "hindex_5y": 18,
   "i10index": 28,
@@ -38,9 +38,9 @@
       "title": "Pick-and-place transfer of arbitrary-metal electrodes for van der Waals device fabrication",
       "year": "2025",
       "venue": "ACS nano 19 (3), 3579-3588, 2025",
-      "doi": "10.1021/acsnano.4c13592",
-      "url": "https://doi.org/10.1021/acsnano.4c13592"
+      "doi": null,
+      "url": "https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en"
     }
   ],
-  "updated": "2026-08-19"
+  "updated": "2026-08-21"
 }

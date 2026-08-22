@@ -72,6 +72,6 @@ I'm a computational materials scientist working on topological quantum materials
 - [Efficient and Robust p-Type Transistor Based on Ultrawide-Bandgap Semiconductor](https://doi.org/10.1021/acsnano.5c22605) — ACS nano 20 (8), 7343-7354, 2026
 - [Flat Bands Induced by Non‐Collinear Antiferromagnetism in CoBi2Te4](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en) — Advanced Science, e76833, 2026
 - [Uncovering complex phonon interactions in Mg3Bi2-xSbx: topology and avoided crossings](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en) — Nature Communications, 2026
-- [Pick-and-place transfer of arbitrary-metal electrodes for van der Waals device fabrication](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en) — ACS nano 19 (3), 3579-3588, 2025
+- [Pick-and-place transfer of arbitrary-metal electrodes for van der Waals device fabrication](https://doi.org/10.1021/acsnano.4c13592) — ACS nano 19 (3), 3579-3588, 2025
 <!-- SCHOLAR-PUBLICATIONS:END -->
 

@@ -1,7 +1,7 @@
 {
-  "citations": 1211,
-  "citations_5y": 1075,
-  "hindex": 19,
+  "citations": 1217,
+  "citations_5y": 1081,
+  "hindex": 20,
   "hindex_5y": 18,
   "i10index": 28,
   "i10index_5y": 26,
@@ -31,16 +31,16 @@
       "title": "Uncovering complex phonon interactions in Mg3Bi2-xSbx: topology and avoided crossings",
       "year": "2026",
       "venue": "Nature Communications, 2026",
-      "doi": null,
-      "url": "https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en"
+      "doi": "10.1038/s41467-026-71754-9",
+      "url": "https://doi.org/10.1038/s41467-026-71754-9"
     },
     {
-      "title": "Pick-and-place transfer of arbitrary-metal electrodes for van der Waals device fabrication",
-      "year": "2025",
-      "venue": "ACS nano 19 (3), 3579-3588, 2025",
+      "title": "Disorder Driven Anisotropic Nonlinear Hall Effect in the Kagome Metal YbCo6Ge6 at Room Temperature",
+      "year": "2026",
+      "venue": "Advanced science (Weinheim, Baden-Wurttemberg, Germany), e77434, 2026",
       "doi": null,
       "url": "https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en"
     }
   ],
-  "updated": "2026-08-30"
+  "updated": "2026-09-01"
 }

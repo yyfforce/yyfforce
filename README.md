@@ -71,7 +71,7 @@ I'm a computational materials scientist working on topological quantum materials
 - [Engineering built-in electric fields through pn heterojunction construction for enhanced dual-functional water electrolysis in Co2P/Fe2P systems](https://doi.org/10.1016/j.jallcom.2026.188405) — Journal of Alloys and Compounds, 188405, 2026
 - [Efficient and Robust p-Type Transistor Based on Ultrawide-Bandgap Semiconductor](https://doi.org/10.1021/acsnano.5c22605) — ACS nano 20 (8), 7343-7354, 2026
 - [Flat Bands Induced by Non‐Collinear Antiferromagnetism in CoBi2Te4](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en) — Advanced Science, e76833, 2026
-- [Uncovering complex phonon interactions in Mg3Bi2-xSbx: topology and avoided crossings](https://doi.org/10.1038/s41467-026-71754-9) — Nature Communications, 2026
+- [Uncovering complex phonon interactions in Mg3Bi2-xSbx: topology and avoided crossings](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en) — Nature Communications, 2026
 - [Disorder Driven Anisotropic Nonlinear Hall Effect in the Kagome Metal YbCo6Ge6 at Room Temperature](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en) — Advanced science (Weinheim, Baden-Wurttemberg, Germany), e77434, 2026
 <!-- SCHOLAR-PUBLICATIONS:END -->
 

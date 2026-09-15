@@ -1,5 +1,9 @@
 scholarly>=1.7.11
 free-proxy>=1.1.1
+# scholarly 1.7.11 imports BibDatabase from bibtexparser.bibdatabase, which was
+# removed in bibtexparser 2.x. Pin below that until scholarly adds support for
+# the new package layout, or the update-stats job fails at import time.
+bibtexparser<2
 # scholarly 1.7.11's ProxyGenerator still calls httpx.Client(proxies=...), a
 # kwarg httpx removed in 0.28 (renamed to `proxy`). Pin below that until
 # scholarly ships a fix, or every fetch dies inside FreeProxies().

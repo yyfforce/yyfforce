@@ -1,10 +1,10 @@
 {
-  "citations": 1235,
-  "citations_5y": 1099,
+  "citations": 1237,
+  "citations_5y": 1101,
   "hindex": 20,
   "hindex_5y": 19,
-  "i10index": 29,
-  "i10index_5y": 27,
+  "i10index": 28,
+  "i10index_5y": 26,
   "recent_publications": [
     {
       "title": "Engineering built-in electric fields through pn heterojunction construction for enhanced dual-functional water electrolysis in Co2P/Fe2P systems",
@@ -42,5 +42,5 @@
       "url": "https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en"
     }
   ],
-  "updated": "2026-09-20"
+  "updated": "2026-09-21"
 }

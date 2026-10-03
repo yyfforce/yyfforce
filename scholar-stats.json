@@ -1,6 +1,6 @@
 {
-  "citations": 1242,
-  "citations_5y": 1106,
+  "citations": 1247,
+  "citations_5y": 1111,
   "hindex": 20,
   "hindex_5y": 19,
   "i10index": 29,
@@ -24,8 +24,8 @@
       "title": "Uncovering complex phonon interactions in Mg3Bi2-xSbx: topology and avoided crossings",
       "year": "2026",
       "venue": "Nature Communications, 2026",
-      "doi": "10.1038/s41467-026-71754-9",
-      "url": "https://doi.org/10.1038/s41467-026-71754-9"
+      "doi": null,
+      "url": "https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en"
     },
     {
       "title": "Sub-Thermionic Switching in a Negative-Capacitance Bandgap-Change Field-Effect Transistor",
@@ -42,5 +42,5 @@
       "url": "https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en"
     }
   ],
-  "updated": "2026-10-02"
+  "updated": "2026-10-03"
 }

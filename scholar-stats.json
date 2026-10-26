@@ -1,6 +1,6 @@
 {
-  "citations": 1258,
-  "citations_5y": 1122,
+  "citations": 1261,
+  "citations_5y": 1125,
   "hindex": 20,
   "hindex_5y": 19,
   "i10index": 29,
@@ -31,8 +31,8 @@
       "title": "Robust van der Waals diamond-like dielectric for two-dimensional electronics",
       "year": "2026",
       "venue": "Matter, 2026",
-      "doi": null,
-      "url": "https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en"
+      "doi": "10.1016/j.matt.2026.103059",
+      "url": "https://doi.org/10.1016/j.matt.2026.103059"
     },
     {
       "title": "Sub-Thermionic Switching in a Negative-Capacitance Bandgap-Change Field-Effect Transistor",
@@ -42,5 +42,5 @@
       "url": "https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en"
     }
   ],
-  "updated": "2026-10-25"
+  "updated": "2026-10-26"
 }

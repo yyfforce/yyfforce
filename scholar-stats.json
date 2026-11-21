@@ -1,10 +1,10 @@
 {
-  "citations": 1281,
-  "citations_5y": 1145,
+  "citations": 1280,
+  "citations_5y": 1144,
   "hindex": 20,
   "hindex_5y": 19,
-  "i10index": 29,
-  "i10index_5y": 27,
+  "i10index": 30,
+  "i10index_5y": 28,
   "recent_publications": [
     {
       "title": "Engineering built-in electric fields through pn heterojunction construction for enhanced dual-functional water electrolysis in Co2P/Fe2P systems",
@@ -17,8 +17,8 @@
       "title": "Efficient and Robust p-Type Transistor Based on Ultrawide-Bandgap Semiconductor",
       "year": "2026",
       "venue": "ACS nano 20 (8), 7343-7354, 2026",
-      "doi": "10.1021/acsnano.5c22605",
-      "url": "https://doi.org/10.1021/acsnano.5c22605"
+      "doi": null,
+      "url": "https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en"
     },
     {
       "title": "Uncovering complex phonon interactions in Mg3Bi2-xSbx: topology and avoided crossings",
@@ -42,5 +42,5 @@
       "url": "https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en"
     }
   ],
-  "updated": "2026-11-19"
+  "updated": "2026-11-21"
 }

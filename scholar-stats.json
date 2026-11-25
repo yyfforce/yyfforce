@@ -1,6 +1,6 @@
 {
-  "citations": 1285,
-  "citations_5y": 1149,
+  "citations": 1287,
+  "citations_5y": 1151,
   "hindex": 20,
   "hindex_5y": 19,
   "i10index": 30,
@@ -17,15 +17,15 @@
       "title": "Efficient and Robust p-Type Transistor Based on Ultrawide-Bandgap Semiconductor",
       "year": "2026",
       "venue": "ACS nano 20 (8), 7343-7354, 2026",
-      "doi": "10.1021/acsnano.5c22605",
-      "url": "https://doi.org/10.1021/acsnano.5c22605"
+      "doi": null,
+      "url": "https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en"
     },
     {
       "title": "Uncovering complex phonon interactions in Mg3Bi2-xSbx: topology and avoided crossings",
       "year": "2026",
       "venue": "Nature Communications, 2026",
-      "doi": null,
-      "url": "https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en"
+      "doi": "10.1038/s41467-026-71754-9",
+      "url": "https://doi.org/10.1038/s41467-026-71754-9"
     },
     {
       "title": "Origin and hole-density dependence of the intrinsic spin Hall conductivity in inorganic halide perovskites",
@@ -38,9 +38,9 @@
       "title": "Robust van der Waals diamond-like dielectric for two-dimensional electronics",
       "year": "2026",
       "venue": "Matter, 2026",
-      "doi": null,
-      "url": "https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en"
+      "doi": "10.1016/j.matt.2026.103059",
+      "url": "https://doi.org/10.1016/j.matt.2026.103059"
     }
   ],
-  "updated": "2026-11-24"
+  "updated": "2026-11-25"
 }

@@ -69,9 +69,9 @@ I'm a computational materials scientist working on topological quantum materials
 
 <!-- SCHOLAR-PUBLICATIONS:START -->
 - [Engineering built-in electric fields through pn heterojunction construction for enhanced dual-functional water electrolysis in Co2P/Fe2P systems](https://doi.org/10.1016/j.jallcom.2026.188405) — Journal of Alloys and Compounds, 188405, 2026
-- [Efficient and Robust p-Type Transistor Based on Ultrawide-Bandgap Semiconductor](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en) — ACS nano 20 (8), 7343-7354, 2026
+- [Efficient and Robust p-Type Transistor Based on Ultrawide-Bandgap Semiconductor](https://doi.org/10.1021/acsnano.5c22605) — ACS nano 20 (8), 7343-7354, 2026
 - [Uncovering complex phonon interactions in Mg3Bi2-xSbx: topology and avoided crossings](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en) — Nature Communications, 2026
+- [Room temperature giant in-plane anomalous Hall effect in TbMn6Sn6](https://doi.org/10.1093/nsr/nwag727) — National Science Review, nwag727, 2026
 - [Origin and hole-density dependence of the intrinsic spin Hall conductivity in inorganic halide perovskites](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en) — arXiv preprint arXiv:2611.25488, 2026
-- [Robust van der Waals diamond-like dielectric for two-dimensional electronics](https://scholar.google.com/citations?user=Wc_-IPYAAAAJ&hl=en) — Matter, 2026
 <!-- SCHOLAR-PUBLICATIONS:END -->
 
